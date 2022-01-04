@@ -1,3 +1,8 @@
 # Todo List
+![GitHub repo size](https://img.shields.io/github/repo-size/mateuzus/todo-list?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/mateuzus/todo-list?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/mateuzus/todo-list)
 
-![Screenshot](/assets/screen.png)
+<p align="center">
+<img src="src/assets/screen.png">
+</p>
