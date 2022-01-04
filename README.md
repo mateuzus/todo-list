@@ -1,3 +1,3 @@
 # Todo List
 
-![Screenshot](screen.png)
+![Screenshot](/assets/screen.png)
